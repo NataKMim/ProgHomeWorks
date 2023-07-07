@@ -25,7 +25,7 @@ Console.WriteLine($"Вторая цифра числа {num} это {(Math.Abs(n
 //Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 int num = 0;
 bool errFlag;
-var input = null;
+var input = "";
 do
 {
     errFlag = false;
@@ -55,12 +55,11 @@ else
         num /= 10;
     }
     Console.WriteLine(num%10);
-
-    
-    
 }
 //Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 /*
+int num = 0;
+bool errFlag;
 do
 {
     errFlag = false;
