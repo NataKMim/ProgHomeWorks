@@ -1,4 +1,4 @@
-﻿/* //Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+﻿//Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 int num = 0;
 bool errFlag;
 
@@ -21,16 +21,16 @@ do
 } while (errFlag);
 
 Console.WriteLine($"Вторая цифра числа {num} это {(Math.Abs(num%100)/10)}"); //по модулю для отрицательных чисел
-*/
+
 //Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-int num = 0;
-bool errFlag;
-var input = "";
+//int num = 0;
+//bool errFlag;
+
 do
 {
     errFlag = false;
     Console.Write("Введите любое  целое число: ");
-    input = Console.ReadLine();
+    var input = Console.ReadLine();
     if (!int.TryParse (input, out num)) 
     {
         Console.WriteLine("ОШИБКА! Вы ввели не целое число!");
@@ -42,13 +42,8 @@ if (num/100 == 0)
     Console.WriteLine("В числе " + num + " третьей цифры нет");
 else
 {    
-    Console.Write($"Третья цифра числа {num} это ");
-    //вариант 1
-    if (input[0] == '-') 
-        Console.WriteLine(input[3]);
-    else 
-        Console.WriteLine(input[2]);
-    //вариант 2
+    Console.Write($"Третья цифра числа {num}  от конца -> {Math.Abs((num/100)%10)}, от начала -> ");
+
     if (num < 0) num *= -1;
     while (num > 999)
     {
@@ -56,10 +51,11 @@ else
     }
     Console.WriteLine(num%10);
 }
+
 //Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-/*
-int num = 0;
-bool errFlag;
+
+//int num = 0;
+//bool errFlag;
 do
 {
     errFlag = false;
@@ -81,4 +77,3 @@ if (num < 6)
     Console.WriteLine("День недели " + num + " не выходной");
 else 
     Console.WriteLine("День недели " + num + " выходной");
-*/
