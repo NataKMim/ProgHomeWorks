@@ -1,0 +1,15 @@
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\bin\Debug\net6.0\HomeWork3.exe
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\bin\Debug\net6.0\HomeWork3.deps.json
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\bin\Debug\net6.0\HomeWork3.runtimeconfig.json
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\bin\Debug\net6.0\HomeWork3.dll
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\bin\Debug\net6.0\HomeWork3.pdb
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.csproj.AssemblyReference.cache
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.AssemblyInfoInputs.cache
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.AssemblyInfo.cs
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.csproj.CoreCompileInputs.cache
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.dll
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\refint\HomeWork3.dll
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.pdb
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\HomeWork3.genruntimeconfig.cache
+D:\GB\ProgHomeWorks\ProgHomeWorks\HomeWork3\obj\Debug\net6.0\ref\HomeWork3.dll
